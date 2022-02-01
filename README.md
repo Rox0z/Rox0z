@@ -5,9 +5,11 @@
     <img src="https://img.shields.io/discord/275458197941125121?color=5865f2&label=%2Fpolicia&logo=discord&logoColor=fff&style=for-the-badge" />
   </a>
 </p>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/305722154480304128)](https://discord.com/users/305722154480304128)
-
+<p align="center">
+  <a href="https://discord.com/users/305722154480304128">
+    <img src="https://lanyard.cnrad.dev/api/305722154480304128" />
+  </a>
+</p>
 ---
 
 - Trying my best
