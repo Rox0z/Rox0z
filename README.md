@@ -12,8 +12,9 @@
 - Failing at every trying
 - Doin it again
 - Programming in node.js
-- Probably discord bots
+- ~~Probably discord bots~~
 - ~~_(I dont like emojis particularly)_~~
+- Working with Angular Framework @ job 🤠
 
 ---
 
